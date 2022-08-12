@@ -1,9 +1,9 @@
-Olá, eu sou o Marcio Costa!👋 Analista Pleno de Redes | Desenvolvedor Mobile
+Olá, eu sou o Marcio Costa!👋 Analista Pleno de Redes | Dev Web
 
   ##
   
 - 🔭 Estou a trabalhar em Startups
-- 🌱 Estou a aprender React-native, FireBase, NoSQL 
+- 🌱 Estou a aprender TypeScript, React, Style Component, FireBase, NoSQL 
 - 👯 Estou à procura de colaborar em projectos de App 
 - 🤔 Estou à procura de ajuda com ...
 - 💬 Pergunte-me sobre App, Startups ...
